@@ -17,6 +17,7 @@ poder hacer búsqueda a partir de una o más palabras (también números, siglas
 
 '''
 
+# TextBlob: http://textblob.readthedocs.org/en/dev/
 
 from textblob import TextBlob
 
